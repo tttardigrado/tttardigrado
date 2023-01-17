@@ -4,6 +4,7 @@ My name is Gonçalo Teixeira, also known around the corners of the web as **Tard
 
 Some of my interests are:
 * 💻 Computer Science
+* 💀 Esolangs
 * 🎵 Hip Hop
 * 🪐 Sci-fi
 * 📚 Competitive Debate
